@@ -1,5 +1,8 @@
 # EmguCV-CameraCapture
 Basic Windows Form application for camera capture using EmguCV library - Stream &amp; capture frame.
+This app able to do:
+1. Start/stop streaming from webcam devices
+2. Capture frame when press the Capture button
 
 EmguCV: http://www.emgu.com/wiki/index.php/Main_Page
 Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc. The wrapper can be compiled by Visual Studio, Xamarin Studio and Unity, it can run on Windows, Linux, Mac OS X, iOS, Android and Windows Phone.
